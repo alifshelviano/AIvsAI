@@ -20,7 +20,7 @@ Compare answers from Gemini and Meta-Llama (OpenRouter) using a simple Streamlit
    streamlit run AIvsAI.py
    ```
 
-## Acess Live
+## Access Live
 
 https://geminivsllama.streamlit.app/
 
